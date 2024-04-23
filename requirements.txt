@@ -1,0 +1,4 @@
+transformers[sentencepiece]==4.20
+evaluate
+datasets
+git+https://github.com/google-research/bleurt.git
